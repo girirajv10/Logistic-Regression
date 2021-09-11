@@ -1,0 +1,2 @@
+# Logistic-Regression
+Logistic Regression is a supervised learning algorithm that is used when the target variable is categorical. In Logistic Regression the target variable is categorical where we have to strict the range of predicted values. Consider a classification problem, where we need to classify whether an email is a spam or not. So we have to predict either 0 (for not spam) or 1 (for spam).
